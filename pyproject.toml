@@ -28,6 +28,5 @@ mcp_pride_archive_search = "mcp_pride_archive_search.server:main"
 
 [tool.setuptools]
 packages = ["mcp_pride_archive_search",
-            "mcp_pride_archive_search.models",
             "mcp_pride_archive_search.services",
             "mcp_pride_archive_search.utils"]
