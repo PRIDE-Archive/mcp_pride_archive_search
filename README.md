@@ -1,4 +1,4 @@
-# 🧬 MCP PRIDE API Server
+# 🧬 MCP PRIDE Archive Search Server
 
 This project implements a **Model Context Protocol (MCP)**-compliant API server that exposes tools to search the [PRIDE Archive](https://www.ebi.ac.uk/pride/), a major repository for proteomics data. It allows AI models (such as Claude or other MCP-compatible LLMs) to interact with proteomics datasets programmatically using structured function calling.
 
@@ -72,7 +72,9 @@ This server works with any LLM that supports Model Context Protocol, including:
                                                            v
                                               +---------------------------+
                                               | PRIDE Archive REST API    |
-                                              | (https://ebi.ac.uk/pride) |
+                                              | (https://www.ebi.ac.uk    |
+                                              |   /pride/ws/archive/      |
+                                              |  v3/search/projects)      |
                                               +---------------------------+
 ```
 
