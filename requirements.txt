@@ -1,0 +1,5 @@
+fastmcp
+rich
+pydantic
+python-dotenv
+aiohttp
