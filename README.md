@@ -19,8 +19,8 @@ This project implements a **Model Context Protocol (MCP)**-compliant API server 
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-org/mcp-pride-api-server.git
-cd mcp-pride-api-server
+git clone https://github.com/PRIDE-Archive/mcp_pride_archive_search.git
+cd mcp_pride_archive_search
 poetry install  # or pip install -r requirements.txt
 ```
 
