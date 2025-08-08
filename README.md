@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/pride-archive-mcp-pride-archive-search-badge.png)](https://mseep.ai/app/pride-archive-mcp-pride-archive-search)
+
 # 🧬 MCP PRIDE Archive Search Server
 
 This project implements a **Model Context Protocol (MCP)**-compliant API server that exposes tools to search the [PRIDE Archive](https://www.ebi.ac.uk/pride/), a major repository for proteomics data. It allows AI models (such as Claude or other MCP-compatible LLMs) to interact with proteomics datasets programmatically using structured function calling.
